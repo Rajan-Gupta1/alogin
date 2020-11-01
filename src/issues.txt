@@ -1,0 +1,14 @@
+1. On clicking logout following error in console
+   core.js:6185 ERROR Error: Uncaught (in promise): not authenticated
+    at resolvePromise (zone-evergreen.js:798)
+    at zone-evergreen.js:705
+    at rejected (Auth.js:28)
+    at ZoneDelegate.invoke (zone-evergreen.js:364)
+    at Object.onInvoke (core.js:41275)
+    at ZoneDelegate.invoke (zone-evergreen.js:363)
+    at Zone.run (zone-evergreen.js:123)
+    at zone-evergreen.js:857
+    at ZoneDelegate.invokeTask (zone-evergreen.js:399)
+    at Object.onInvokeTask (core.js:41253)
+
+2. 
