@@ -4,7 +4,7 @@ import Amplify, { Auth } from 'aws-amplify';
 const aws_configure = {
     Auth: {
         "region": "us-east-1",
-        "userPoolId": "us-east-1_Kigb8esKv",
+        "userPoolId": "us-east-1_xxxxxxxxxx",
         "userPoolWebClientId": "xxxxxxxxxxxxxxxxxxx",
         mandatorySignIn: true,
         cookieStorage: {
