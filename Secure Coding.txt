@@ -1,0 +1,18 @@
+Cloud Data Security 1 hr
+https://wd5.myworkday.com/equifax/d/inst/1$17/22699$1090.htmld
+Cloud Application Security 2 hr 14 min
+https://wd5.myworkday.com/equifax/d/inst/1$17/22699$1092.htmld
+
+All - Inclduing ISO in Security 
+OWASP Overview 1 hr
+OWASP Web Application Security 44 min
+OWASP A7 and A6: Leaky and Unprepared Applications
+OWASP: Top 10 Items A9, A8, & A7  38 min
+OWASP A4 and A2: Broken Applications 1 hr
+OWASP: Top 10 Item A10 45 min
+OWASP: Top 10 Items A6, A5 & A4 47 min
+OWASP: Top 10 & Web Applications 1 hr
+
+Microservices Testing Strategies, Scaling, Monitoring, and Security 2hr  (QA, Arch, Dev)
+https://wd5.myworkday.com/equifax/d/inst/1$17/22699$7215.htmld
+
